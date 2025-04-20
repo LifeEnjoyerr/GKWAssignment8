@@ -14,3 +14,4 @@ Testing methodology: I tested each functions with random matricies, utilizeing a
 
 Additional information:
 Each file still contains a main file, even if there is nothing in it. this is entirely for the convienence of the tester should they decide to use it. On a simular note, a displayMatrix function has been put into each library that when called, will display the given matrix. This was created to assist with debuging, and was left in to help users with their own debugging. each library requires that the hight and length of the matricy is entered before any opperations can be performed.
+Additionaly, no text is displayed upon calculateing the results of each opperation. The screenshots displayed are from my testing, and show how it should display along with how i call everything.
